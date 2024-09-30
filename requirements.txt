@@ -6,6 +6,6 @@ opencv-python==4.9.0.80
 numpy==1.26.3
 pandas==2.2.0
 tqdm==4.66.5
-scikit-learn
-tensorboard
-torchsummary
+scikit-learn==1.5.2
+torchsummary==1.5.1
+seaborn==0.13.2
